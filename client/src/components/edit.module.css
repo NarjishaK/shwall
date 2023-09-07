@@ -1,0 +1,84 @@
+.div1{
+    background-color: pink;
+    height: 56px;
+    color: white;
+    font-family: ui-rounded;
+    text-align: center;
+    padding-top: 10px;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  thead th {
+    background-color: #f2f2f2;
+  }
+  
+  tbody tr:hover {
+    background-color: #f2f2f2;
+  }
+  .btn{
+    border: none;
+    width: 40%;
+    height: 34px;
+    text-align: center;
+    background-color: rgb(221, 221, 249);
+    border-radius: 16px;
+  }
+  .btn:hover{
+    background-color: pink;
+  }
+  .edit{
+    padding-top: 4px;
+    text-decoration: none;
+    color: #fff;
+  }
+  .imgs{
+    width: 150px;
+    height: 150px;
+  }
+  .btn2{
+    width: 100%;
+    background-color: rgb(249, 224, 229);
+    font-family: cursive;
+    font-size: large;
+    border: none;
+    text-transform: capitalize;
+    margin-top:5px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    background-color: thistle;
+}
+.text1{
+  text-decoration: none;
+  color: rgb(245, 245, 245);
+
+}

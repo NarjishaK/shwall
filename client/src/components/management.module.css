@@ -1,0 +1,113 @@
+.btn1{
+    width: 100%;
+    background-color: pink;
+    color: whitesmoke;
+    font-family: cursive;
+    font-size: large;
+    border: none;
+    text-transform: capitalize;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+.btn2{
+    width: 100%;
+    background-color: rgb(249, 224, 229);
+    font-family: cursive;
+    font-size: large;
+    border: none;
+    text-transform: capitalize;
+    margin-top:5px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    background-color: thistle;
+}
+.btn3{
+    width: 100%;
+    background-color: rgb(249, 224, 229);
+    font-family: cursive;
+    font-size: large;
+    border: none;
+    text-transform: capitalize;
+    margin-top:5px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    background-color: mistyrose;
+}
+.text1{
+    text-decoration: none;
+    color: rgb(245, 245, 245);
+
+}
+
+/* Addproduct.js styles */
+
+.div1{
+    background-image: url('../image/bg.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+}
+.btn{
+    text-align: center;
+}
+.btns{
+    width: 288px;
+    height: 78px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 16px;
+    color: tan;
+}
+.add{
+    width: 40%;
+    height: 600px;
+    margin-left: 30%;
+    background-color: lightpink;
+    margin-top: -37px;
+    border-radius: 25px;
+}
+.select_tag{
+    margin-top: 80px;
+    width: 58%;
+    height: 39px;
+    border: none;
+    background-color: azure;
+    color: cadetblue;
+}
+.inpt{
+    margin-top: 20px;
+    width: 58%;
+    height: 39px;
+    border: none;
+    background-color: azure;
+    color: cadetblue;
+}
+.confm{
+    margin-top: 32px;
+    width: 58%;
+    border: none;
+    height: 37px;
+    border-radius: 27px;
+    background-color: lightblue;
+}
+.confm:hover{
+    background-color: brown;
+}
+
+.confm1{
+    margin-top: 32px;
+    width: 58%;
+    border: none;
+    height: 37px;
+    border-radius: 27px;
+    background-color: thistle;
+    color: #fff;
+}
+    
+.confm1:hover{
+    background-color: brown;
+}
+.list{
+    color: #fff;
+    text-decoration: none;
+}
