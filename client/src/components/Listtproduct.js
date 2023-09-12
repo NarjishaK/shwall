@@ -47,8 +47,6 @@ const handleDelete =async (id)=>{
               <th>Material </th>
               <th>Edit</th>
               <th>Delete</th>
-              <th>Narji</th>
-              <th>Rohith</th>
             </tr>
           </thead>
           <tbody>
